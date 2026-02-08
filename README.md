@@ -18,10 +18,6 @@ A powerful, user-friendly Python application for batch renaming files and folder
 - **Version Numbering** - Fixed, incremental, or random versioning
 - **Progress Indicator** - Visual feedback for large operations
 
-## 📸 Screenshot
-
-![File and Folder Renamer Screenshot](screenshot.png)
-
 ## 🚀 Installation
 
 ### Prerequisites
